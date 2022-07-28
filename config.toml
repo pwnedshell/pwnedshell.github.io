@@ -6,7 +6,7 @@ title = "Alejandro Cruz Martínez"
 
 theme = "gokarna"
 
-publishDir = "docs"
+publishDir = "public"
 
 enableRobotsTXT = true
 
